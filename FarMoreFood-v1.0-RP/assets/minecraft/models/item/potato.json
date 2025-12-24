@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/potato"
+  },
+  "overrides":
+  [
+    { "predicate": { "custom_model_data": 7990017}, "model": "farmorefood/bell_pepper_red"},
+    { "predicate": { "custom_model_data": 7990018}, "model": "farmorefood/bell_pepper_yellow"},
+    { "predicate": { "custom_model_data": 7990019}, "model": "farmorefood/bell_pepper_green"},
+    { "predicate": { "custom_model_data": 7990020}, "model": "farmorefood/chili_pepper_red"},
+    { "predicate": { "custom_model_data": 7990021}, "model": "farmorefood/chili_pepper_green"},
+    { "predicate": { "custom_model_data": 7990027}, "model": "farmorefood/avocado"},
+    { "predicate": { "custom_model_data": 7990028}, "model": "farmorefood/broccoli"},
+    { "predicate": { "custom_model_data": 7990029}, "model": "farmorefood/corn"},
+    { "predicate": { "custom_model_data": 7990030}, "model": "farmorefood/cucumber"},
+    { "predicate": { "custom_model_data": 7990031}, "model": "farmorefood/olives"},
+    { "predicate": { "custom_model_data": 7990032}, "model": "farmorefood/onion"},
+    { "predicate": { "custom_model_data": 7990033}, "model": "farmorefood/radish"},
+    { "predicate": { "custom_model_data": 7990034}, "model": "farmorefood/turnip"},
+    { "predicate": { "custom_model_data": 7990039}, "model": "farmorefood/tomato"}
+  ]
+}

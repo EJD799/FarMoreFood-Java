@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/sweet_berries"
+  },
+  "overrides":
+  [
+    { "predicate": { "custom_model_data": 7990009}, "model": "farmorefood/strawberry"},
+    { "predicate": { "custom_model_data": 7990010}, "model": "farmorefood/blueberry"},
+    { "predicate": { "custom_model_data": 7990011}, "model": "farmorefood/raspberry"},
+    { "predicate": { "custom_model_data": 7990012}, "model": "farmorefood/blackberry"},
+    { "predicate": { "custom_model_data": 7990013}, "model": "farmorefood/cherry"},
+    { "predicate": { "custom_model_data": 7990014}, "model": "farmorefood/grapes"},
+    { "predicate": { "custom_model_data": 7990024}, "model": "farmorefood/cranberries"},
+    { "predicate": { "custom_model_data": 7990025}, "model": "farmorefood/raisins"},
+    { "predicate": { "custom_model_data": 7990035}, "model": "farmorefood/almonds"},
+    { "predicate": { "custom_model_data": 7990036}, "model": "farmorefood/peanut"},
+    { "predicate": { "custom_model_data": 7990037}, "model": "farmorefood/pistachios"}
+  ]
+}

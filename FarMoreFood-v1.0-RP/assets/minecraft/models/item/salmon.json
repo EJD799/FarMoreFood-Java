@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/raw_salmon"
+  },
+  "overrides":
+  [
+    { "predicate": { "custom_model_data": 7990075}, "model": "farmorefood/sushi_roll"},
+    { "predicate": { "custom_model_data": 7990076}, "model": "farmorefood/sushi_nigiri"}
+  ]
+}

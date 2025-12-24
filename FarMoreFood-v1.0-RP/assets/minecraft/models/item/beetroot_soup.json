@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/beetroot_soup"
+  },
+  "overrides":
+  [
+    { "predicate": { "custom_model_data": 7990073}, "model": "farmorefood/tomato_soup"},
+    { "predicate": { "custom_model_data": 7990074}, "model": "farmorefood/miso_soup"}
+  ]
+}

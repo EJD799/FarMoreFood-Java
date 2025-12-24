@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cookie"
+  },
+  "overrides":
+  [
+    { "predicate": { "custom_model_data": 7990041}, "model": "farmorefood/chocolate"},
+    { "predicate": { "custom_model_data": 7990042}, "model": "farmorefood/peppermint"},
+    { "predicate": { "custom_model_data": 7990043}, "model": "farmorefood/candy_cane"},
+    { "predicate": { "custom_model_data": 7990044}, "model": "farmorefood/candy_corn"},
+    { "predicate": { "custom_model_data": 7990045}, "model": "farmorefood/lollipop"},
+    { "predicate": { "custom_model_data": 7990046}, "model": "farmorefood/fortune_cookie"},
+    { "predicate": { "custom_model_data": 7990047}, "model": "farmorefood/gingerbread_cookie"},
+    { "predicate": { "custom_model_data": 7990048}, "model": "farmorefood/popsicle"},
+    { "predicate": { "custom_model_data": 7990049}, "model": "farmorefood/icecream_vanilla"},
+    { "predicate": { "custom_model_data": 7990050}, "model": "farmorefood/icecream_chocolate"},
+    { "predicate": { "custom_model_data": 7990051}, "model": "farmorefood/icecream_mint"},
+    { "predicate": { "custom_model_data": 7990052}, "model": "farmorefood/muffin_corn"},
+    { "predicate": { "custom_model_data": 7990053}, "model": "farmorefood/muffin_blueberry"},
+    { "predicate": { "custom_model_data": 7990056}, "model": "farmorefood/churro"}
+  ]
+}

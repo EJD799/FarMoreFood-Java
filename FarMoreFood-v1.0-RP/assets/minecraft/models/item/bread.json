@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/bread"
+  },
+  "overrides":
+  [
+    { "predicate": { "custom_model_data": 7990040}, "model": "farmorefood/cheese"},
+    { "predicate": { "custom_model_data": 7990054}, "model": "farmorefood/bagel"},
+    { "predicate": { "custom_model_data": 7990055}, "model": "farmorefood/croissant"},
+    { "predicate": { "custom_model_data": 7990057}, "model": "farmorefood/popcorn"},
+    { "predicate": { "custom_model_data": 7990058}, "model": "farmorefood/pretzel"},
+    { "predicate": { "custom_model_data": 7990059}, "model": "farmorefood/fries"},
+    { "predicate": { "custom_model_data": 7990060}, "model": "farmorefood/onion_rings"},
+    { "predicate": { "custom_model_data": 7990072}, "model": "farmorefood/rice"}
+  ]
+}

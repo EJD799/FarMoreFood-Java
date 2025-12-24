@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cooked_chicken"
+  },
+  "overrides":
+  [
+    { "predicate": { "custom_model_data": 7990038}, "model": "farmorefood/bacon"},
+    { "predicate": { "custom_model_data": 7990039}, "model": "farmorefood/sausage"},
+    { "predicate": { "custom_model_data": 7990064}, "model": "farmorefood/tamale"},
+    { "predicate": { "custom_model_data": 7990065}, "model": "farmorefood/taco"},
+    { "predicate": { "custom_model_data": 7990066}, "model": "farmorefood/sandwich"},
+    { "predicate": { "custom_model_data": 7990067}, "model": "farmorefood/samosa"},
+    { "predicate": { "custom_model_data": 7990068}, "model": "farmorefood/pizza_cheese"},
+    { "predicate": { "custom_model_data": 7990069}, "model": "farmorefood/pizza_pepperoni"},
+    { "predicate": { "custom_model_data": 7990070}, "model": "farmorefood/burger"},
+    { "predicate": { "custom_model_data": 7990071}, "model": "farmorefood/burrito"}
+  ]
+}

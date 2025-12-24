@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/pumpkin_pie"
+  },
+  "overrides":
+  [
+    { "predicate": { "custom_model_data": 7990061}, "model": "farmorefood/cupcake"},
+    { "predicate": { "custom_model_data": 7990062}, "model": "farmorefood/donut"},
+    { "predicate": { "custom_model_data": 7990063}, "model": "farmorefood/donut_chocolate"},
+    { "predicate": { "custom_model_data": 7990077}, "model": "farmorefood/pancakes"},
+    { "predicate": { "custom_model_data": 7990078}, "model": "farmorefood/waffle"},
+    { "predicate": { "custom_model_data": 7990079}, "model": "farmorefood/french_toast"},
+    { "predicate": { "custom_model_data": 7990080}, "model": "farmorefood/cinnamon_rolls"}
+  ]
+}

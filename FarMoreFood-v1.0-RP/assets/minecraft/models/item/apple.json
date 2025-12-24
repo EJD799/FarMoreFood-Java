@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/apple"
+  },
+  "overrides":
+  [
+    { "predicate": { "custom_model_data": 7990001}, "model": "farmorefood/orange"},
+    { "predicate": { "custom_model_data": 7990002}, "model": "farmorefood/banana"},
+    { "predicate": { "custom_model_data": 7990003}, "model": "farmorefood/pear"},
+    { "predicate": { "custom_model_data": 7990004}, "model": "farmorefood/lemon"},
+    { "predicate": { "custom_model_data": 7990005}, "model": "farmorefood/lime"},
+    { "predicate": { "custom_model_data": 7990006}, "model": "farmorefood/mango"},
+    { "predicate": { "custom_model_data": 7990007}, "model": "farmorefood/pineapple"},
+    { "predicate": { "custom_model_data": 7990008}, "model": "farmorefood/kiwi"},
+    { "predicate": { "custom_model_data": 7990015}, "model": "farmorefood/peach"},
+    { "predicate": { "custom_model_data": 7990016}, "model": "farmorefood/plum"},
+    { "predicate": { "custom_model_data": 7990022}, "model": "farmorefood/apple_green"},
+    { "predicate": { "custom_model_data": 7990023}, "model": "farmorefood/cantaloupe_slice"},
+    { "predicate": { "custom_model_data": 7990026}, "model": "farmorefood/pomegranate"}
+  ]
+}
