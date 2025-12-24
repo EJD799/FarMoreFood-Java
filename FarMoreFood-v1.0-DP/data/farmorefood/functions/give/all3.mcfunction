@@ -1,0 +1,9 @@
+function farmorefood:give/soup_tomato
+function farmorefood:give/strawberry
+function farmorefood:give/sushi_nigiri
+function farmorefood:give/sushi_roll
+function farmorefood:give/taco
+function farmorefood:give/tamale
+function farmorefood:give/tomato
+function farmorefood:give/turnip
+function farmorefood:give/waffle

@@ -1,0 +1,1 @@
+give @p pumpkin_pie{display:{Name:'{"text":"Chocolate Donut"}'},CustomModelData:7990063} 1

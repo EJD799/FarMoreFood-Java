@@ -1,0 +1,1 @@
+give @p potato{display:{Name:'{"text":"Turnip"}'},CustomModelData:7990034} 1

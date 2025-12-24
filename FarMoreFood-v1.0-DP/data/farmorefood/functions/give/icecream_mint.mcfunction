@@ -1,0 +1,1 @@
+give @p cookie{display:{Name:'{"text":"Mint Ice Cream"}'},CustomModelData:7990051} 1

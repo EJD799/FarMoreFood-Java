@@ -1,0 +1,1 @@
+give @p beetroot_soup{display:{Name:'{"text":"Miso Soup"}'},CustomModelData:7990074} 1

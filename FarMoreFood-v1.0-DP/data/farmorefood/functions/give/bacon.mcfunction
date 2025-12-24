@@ -1,0 +1,1 @@
+give @p cooked_chicken{display:{Name:'{"text":"Bacon"}'},CustomModelData:7990038} 1

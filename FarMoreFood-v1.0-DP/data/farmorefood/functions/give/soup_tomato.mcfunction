@@ -1,0 +1,1 @@
+give @p beetroot_soup{display:{Name:'{"text":"Tomato Soup"}'},CustomModelData:7990073} 1

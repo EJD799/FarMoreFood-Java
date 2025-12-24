@@ -1,0 +1,1 @@
+give @p cookie{display:{Name:'{"text":"Corn Muffin"}'},CustomModelData:7990052} 1

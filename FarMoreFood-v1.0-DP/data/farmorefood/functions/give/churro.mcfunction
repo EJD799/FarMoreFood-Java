@@ -1,0 +1,1 @@
+give @p cookie{display:{Name:'{"text":"Churro"}'},CustomModelData:7990056} 1

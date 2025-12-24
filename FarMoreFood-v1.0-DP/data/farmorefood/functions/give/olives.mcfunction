@@ -1,0 +1,1 @@
+give @p potato{display:{Name:'{"text":"Olives"}'},CustomModelData:7990031} 1

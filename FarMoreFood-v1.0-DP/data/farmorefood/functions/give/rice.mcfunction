@@ -1,0 +1,1 @@
+give @p bread{display:{Name:'{"text":"Rice"}'},CustomModelData:7990072} 1

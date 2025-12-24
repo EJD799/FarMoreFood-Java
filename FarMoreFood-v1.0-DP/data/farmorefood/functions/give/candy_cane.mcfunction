@@ -1,0 +1,1 @@
+give @p cookie{display:{Name:'{"text":"Candy Cane"}'},CustomModelData:7990043} 1

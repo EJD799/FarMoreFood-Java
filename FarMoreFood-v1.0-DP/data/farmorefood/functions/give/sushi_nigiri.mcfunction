@@ -1,0 +1,1 @@
+give @p salmon{display:{Name:'{"text":"Nigiri Sushi"}'},CustomModelData:7990076} 1

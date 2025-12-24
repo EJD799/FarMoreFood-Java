@@ -1,0 +1,1 @@
+give @p cookie{display:{Name:'{"text":"Fortune Cookie"}'},CustomModelData:7990046} 1

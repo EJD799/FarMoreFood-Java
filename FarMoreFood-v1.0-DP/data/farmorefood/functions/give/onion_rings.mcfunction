@@ -1,0 +1,1 @@
+give @p bread{display:{Name:'{"text":"Onion Rings"}'},CustomModelData:7990060} 1

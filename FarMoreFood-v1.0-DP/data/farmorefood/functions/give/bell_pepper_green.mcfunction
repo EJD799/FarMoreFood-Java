@@ -1,0 +1,1 @@
+give @p potato{display:{Name:'{"text":"Green Bell Pepper"}'},CustomModelData:7990019} 1

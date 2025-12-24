@@ -1,0 +1,1 @@
+give @p cookie{display:{Name:'{"text":"Lollipop"}'},CustomModelData:7990045} 1

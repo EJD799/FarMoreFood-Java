@@ -1,0 +1,1 @@
+give @p sweet_berries{display:{Name:'{"text":"Strawberry"}'},CustomModelData:7990009} 1
